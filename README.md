@@ -9,6 +9,7 @@ Financial Statements 2021–2025 — Nigerian Exchange
 Group (NGX)  
 **GitHub:** [github.com/Emmapluz](https://github.com/Emmapluz)  
 **Portfolio:** [View Full Portfolio](https://www.notion.so/Emmanuel-Nwankwo-Data-AI-Automation-Portfolio-34d2848d0dba80bd9f6fc5fd419f3c63)
+**Medium:** [Read the Full Analysis Breakdown](https://medium.com/@e.u.nwankwo93/what-dangote-cements-numbers-actually-reveal-a-5-year-deep-dive-ef7e638543d2)
 
 ---
 
@@ -98,8 +99,8 @@ dangote-cement-financial-analysis/
 | Years | Source | Link |
 |---|---|---|
 | 2025 | NGX Audited Financial Statements | [View](https://doclib.ngxgroup.com/Financial_NewsDocs/DANGOTE_CEMENT_PLC_-_2025_AUDITED_FINANCIAL_STATEMENTS.pdf) |
-| 2024 | Dangote Cement FY2024 Annual Report | [View](https://www.dangotecement.com/wp-content/uploads/2025/05/Dangote-Cement-FY-2024-Annual-Report.pdf) |
-| 2021–2022 | Dangote Cement 2022 Annual Report | [View](https://www.dangotecement.com/wp-content/uploads/2023/04/DCP-2022-Annual-Report-UPDATED.pdf) |
+| 2024 | Dangote Cement FY2024 Annual Report | [View](https://dangote.com/wp-content/uploads/2025/12/Dangote-Cement-Full-Year-2024-Account.pdf) |
+| 2021–2022 | Dangote Cement 2022 Annual Report | [View](https://cement.dangote.com/wp-content/uploads/2023/02/DCP-FY-2022-Result-Statement.pdf) |
 
 All figures sourced from Group consolidated financial statements within each report.
 2023 figures sourced from 2024 report prior year comparatives.

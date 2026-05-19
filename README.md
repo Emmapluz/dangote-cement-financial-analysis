@@ -8,7 +8,7 @@
 Financial Statements 2021–2025 — Nigerian Exchange 
 Group (NGX)  
 **GitHub:** [github.com/Emmapluz](https://github.com/Emmapluz)  
-**Portfolio:** [View Full Portfolio](https://www.notion.so/Emmanuel-Nwankwo-Data-AI-Automation-Portfolio-34d2848d0dba80bd9f6fc5fd419f3c63)
+**Portfolio:** [View Full Portfolio](https://www.notion.so/Emmanuel-Nwankwo-Data-AI-Automation-Portfolio-34d2848d0dba80bd9f6fc5fd419f3c63) |
 **Medium:** [Read the Full Analysis Breakdown](https://medium.com/@e.u.nwankwo93/what-dangote-cements-numbers-actually-reveal-a-5-year-deep-dive-ef7e638543d2)
 
 ---
